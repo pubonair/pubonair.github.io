@@ -5,6 +5,7 @@
 - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/%E7%A9%BA%E4%B8%AD%E9%85%92%E5%90%A7-pub-on-air/id1528970071)
 - [Spotify](https://open.spotify.com/show/1C3IMFgUTvSi4yowKf1ijF)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMjYxNjY2MC9wb2RjYXN0L3Jzcw)
+- [SoundOn](https://player.soundon.fm/p/ea5c2de7-62f5-45d1-ac89-40621cd571b8)
 - [Breaker](https://www.breaker.audio/kong-zhong-jiu-ba-pub-on-air)
 - [Castbox](https://castbox.fm/channel/id3234392)
 - [Overcast](https://overcast.fm/p2204484-DNy9mX)
